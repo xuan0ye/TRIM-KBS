@@ -1,0 +1,122 @@
+[
+  {
+    "vendored": "_trim/model_legacy.py",
+    "original": "audit_av_core_20261012/model_legacy.py",
+    "sha256": "f4166b6ca8c36b278ae7a730380a3ded21ecd39a32adaf05763db6ed21888103"
+  },
+  {
+    "vendored": "_trim/model_tools.py",
+    "original": "audit_av_core_20261012/model_tools.py",
+    "sha256": "47f5f5cf752ae2430f32152d544d9a2665ecca96e5ef1cb1e40cb04ed8915dbf"
+  },
+  {
+    "vendored": "_trim/common.py",
+    "original": "audit_av_core_20261012/common.py",
+    "sha256": "0cbc52da63c8720a63ee0ff6d2fc06f05d15d8791aba2ceac995053174c46609"
+  },
+  {
+    "vendored": "_trim/mmap_dataset_pickle.py",
+    "original": "audit_av_core_20261012/mmap_dataset_pickle.py",
+    "sha256": "0f011408b9ac5c74a0c681b20752a61c90ca71a6690214caede288c0978127f2"
+  },
+  {
+    "vendored": "_mult/run_cormult_repro.py",
+    "original": "src/run_cormult_repro.py",
+    "sha256": "dad844805d25d7aace1a4ff3dfef741903bb02f67b72d07242d526263fbd5ced"
+  },
+  {
+    "vendored": "CorMulT-main/modules/multihead_attention.py",
+    "original": "CorMulT-main/modules/multihead_attention.py",
+    "sha256": "17f6d199f49a772fa613849c2cd48319a8e0fd50514a8a7860952153594a6b53"
+  },
+  {
+    "vendored": "CorMulT-main/modules/position_embedding.py",
+    "original": "CorMulT-main/modules/position_embedding.py",
+    "sha256": "3003f3dacd58a9077d10799672cb1bdcd866477f7fcfbc916886dc1cfd9c26ad"
+  },
+  {
+    "vendored": "CorMulT-main/modules/transformer.py",
+    "original": "CorMulT-main/modules/transformer.py",
+    "sha256": "e5cfc05d5fe8eed67d59a93296db9e179031cdda682bb0660c378a10e3ad61ca"
+  },
+  {
+    "vendored": "CorMulT-main/modality_correlation/correlation_dataset.py",
+    "original": "CorMulT-main/modality_correlation/correlation_dataset.py",
+    "sha256": "ec4305971c1f820168f72acaa48a0a822a68ba13f460dc3052cfb4abbac7fa7c"
+  },
+  {
+    "vendored": "CorMulT-main/modality_correlation/correlation_loss.py",
+    "original": "CorMulT-main/modality_correlation/correlation_loss.py",
+    "sha256": "0bdefb1ed7f2fbdc3b1be6002d4a6faa79d906c157420138a8933b34f85d78c5"
+  },
+  {
+    "vendored": "CorMulT-main/modality_correlation/correlation_models.py",
+    "original": "CorMulT-main/modality_correlation/correlation_models.py",
+    "sha256": "87a3fa2edf486118f1ac45a97377570c7d34ad3606a1a66a071dbe3c8d19324f"
+  },
+  {
+    "vendored": "CorMulT-main/modality_correlation/correlation_train.py",
+    "original": "CorMulT-main/modality_correlation/correlation_train.py",
+    "sha256": "d528ea9ea3bb9c98f3f624e8f57887d6785ed57e9a9c6bbbf0b2c30d92194e22"
+  },
+  {
+    "vendored": "CorMulT-main/modality_correlation/main_correlation.py",
+    "original": "CorMulT-main/modality_correlation/main_correlation.py",
+    "sha256": "543f02889fd86b5f198f202add37e3dca31862ed00338192d59740016cd139db"
+  },
+  {
+    "vendored": "CorMulT-main/modality_correlation/__init__.py",
+    "original": "CorMulT-main/modality_correlation/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "vendored": "_lnln/models/lnln.py",
+    "original": "sota_repro_20261001/LNLN-main/models/lnln.py",
+    "sha256": "9b4c72c76b09937637c472ef8b89ef16319fc45478bd31c835f644da8c480cd7"
+  },
+  {
+    "vendored": "_lnln/models/bert.py",
+    "original": "sota_repro_20261001/LNLN-main/models/bert.py",
+    "sha256": "502af13b3b429553a97fa4f7b6b99c6cd7b28dd05eda868f97cc98c370e8c470"
+  },
+  {
+    "vendored": "_lnln/models/basic_layers.py",
+    "original": "sota_repro_20261001/LNLN-main/models/basic_layers.py",
+    "sha256": "bc9141ac4e66220fa07f6dfa7314ba2698d174d76084410345aa746729d87804"
+  },
+  {
+    "vendored": "_lnln/core/dataset.py",
+    "original": "sota_repro_20261001/LNLN-main/core/dataset.py",
+    "sha256": "d2c4144c6cd6a31b0ddcac984aa229176474bc6dd2bf07e6b97ac3835c75c25f"
+  },
+  {
+    "vendored": "_lnln/configs/eval_mosei.yaml",
+    "original": "sota_repro_20261001/LNLN-main/configs/eval_mosei.yaml",
+    "sha256": "aeadd798e581898cdd5ff3e0f82d297a02b14e65349786458bdae6026e3f8ce7"
+  },
+  {
+    "vendored": "_lnln/configs/eval_sims.yaml",
+    "original": "sota_repro_20261001/LNLN-main/configs/eval_sims.yaml",
+    "sha256": "8d453abb30cf3cd4515edf832cdcd63143a46c560cd51dbe9b83603df9ebe1e5"
+  },
+  {
+    "vendored": "_lnln/configs/train_mosei.yaml",
+    "original": "sota_repro_20261001/LNLN-main/configs/train_mosei.yaml",
+    "sha256": "0acb83b609cc95c7f427a318f1629e13dba6ca38c6ecbbae2df47911068fb41a"
+  },
+  {
+    "vendored": "_lnln/configs/eval_mosi.yaml",
+    "original": "sota_repro_20261001/LNLN-main/configs/eval_mosi.yaml",
+    "sha256": "9f73bd91623f7a3f17287f68307023828ec9000e627e9d841aceaae5d296c610"
+  },
+  {
+    "vendored": "_lnln/configs/train_sims.yaml",
+    "original": "sota_repro_20261001/LNLN-main/configs/train_sims.yaml",
+    "sha256": "838d959d43e79ac8c53b28697cb263bd28408c5a9d14e18206b2a9c9d6e3882d"
+  },
+  {
+    "vendored": "_lnln/configs/train_mosi.yaml",
+    "original": "sota_repro_20261001/LNLN-main/configs/train_mosi.yaml",
+    "sha256": "c38521200ae3d95e0da51e89572d68feec507d68a1e6633577018acf74252355"
+  }
+]

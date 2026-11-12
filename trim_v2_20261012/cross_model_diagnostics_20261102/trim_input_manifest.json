@@ -1,0 +1,55 @@
+{
+  "inputs": [
+    {
+      "relative_path": "MSA Datasets/MOSI/Processed/aligned_50.pkl",
+      "datasets": [
+        "MOSI"
+      ],
+      "sha256": "d3994fd25681f9c7ad6e9c6596a6fe9b4beb85ff7d478ba978b124139002e5f9"
+    },
+    {
+      "relative_path": "MSA Datasets/SIMS/Processed/unaligned_39.pkl",
+      "datasets": [
+        "SIMS"
+      ],
+      "sha256": "c9e20c13ec0454d98bb9c1e520e490c75146bfa2dfeeea78d84de047dbdd442f"
+    },
+    {
+      "relative_path": "MSA Datasets/MOSEI/Processed/aligned_50.pkl",
+      "datasets": [
+        "MOSEI"
+      ],
+      "sha256": "45eccfb748a87c80ecab9bfac29582e7b1466bf6605ff29d3b338a75120bf791"
+    },
+    {
+      "relative_path": "MSA Datasets/pretrained_berts/bert_en/config.json",
+      "datasets": [
+        "MOSI",
+        "MOSEI"
+      ],
+      "sha256": "3f8f2f8864141bdf4a0cac783707b6019b3c55c5db64832b999cb1048d259d42"
+    },
+    {
+      "relative_path": "MSA Datasets/pretrained_berts/bert_en/model.safetensors",
+      "datasets": [
+        "MOSI",
+        "MOSEI"
+      ],
+      "sha256": "5cc36ad3fafb0708f95cabab4966235f4662235815e77487b5e9c7d9692977d8"
+    },
+    {
+      "relative_path": "MSA Datasets/pretrained_berts/bert_cn/config.json",
+      "datasets": [
+        "SIMS"
+      ],
+      "sha256": "4a5d1686f68f4a58a9ab305b9d37507f06efd831f7a7b596ab4f49b4f8cd123e"
+    },
+    {
+      "relative_path": "MSA Datasets/pretrained_berts/bert_cn/model.safetensors",
+      "datasets": [
+        "SIMS"
+      ],
+      "sha256": "57b312c2844ded1f56eb47f1d159724b92284221897a863583038bdce9208b91"
+    }
+  ]
+}

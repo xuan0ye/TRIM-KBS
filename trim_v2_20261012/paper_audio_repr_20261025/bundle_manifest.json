@@ -1,0 +1,33 @@
+{
+  "release": "paper_audio_repr_20261025",
+  "revision": "bert_config_equivalence_fix_20261025",
+  "files": {
+    "_paper/bert_weight_check.py": "0283749a4c3b445dbe560889601288416b1a04fc0af7bc2d8762225617527481",
+    "_paper/common.py": "0cbc52da63c8720a63ee0ff6d2fc06f05d15d8791aba2ceac995053174c46609",
+    "_paper/mmap_dataset_pickle.py": "0f011408b9ac5c74a0c681b20752a61c90ca71a6690214caede288c0978127f2",
+    "_paper/model_legacy.py": "f4166b6ca8c36b278ae7a730380a3ded21ecd39a32adaf05763db6ed21888103",
+    "_paper/model_tools.py": "47f5f5cf752ae2430f32152d544d9a2665ecca96e5ef1cb1e40cb04ed8915dbf",
+    "bert_config_check.py": "1bb6bc67908089aed46ef0a093c30acb60f6514a95743a2876342bc9b624ba41",
+    "build_bundle.py": "14d8a5e75fe326d56e40582e90c308a62687ccefcee55c789af7e6c474d6c079",
+    "checks/check_bert_config.py": "0b0b1016fec64ed8066fb1bd5f483f079f313b76f128feea08898ae4d499afa0",
+    "checks/check_pipeline.py": "03da71ebbbfe274296667a4bac6e2fb54e292b4e51d9442dfc595bea0685251c",
+    "checks/check_real_extract.py": "55ec3eb0bc5dadc61ba38cc5e89c88322addb57a1b63588aa05e73694baec159",
+    "checks/config_fix_check.json": "0f5551916a30f737bb2d24f3952156d1fa51bacacd4afec5f6006523587d6d6b",
+    "checks/engineering_check.json": "ad5cb5f86c65a77020482cadc92bea34ea9eaf69c4ebd1a9b999c5f6c3d9e8d0",
+    "checks/local_preflight.json": "628626eadbe5c3f4b41c9d55a5b948fd788cdee62208aeb312c89dfb7b0c03cc",
+    "checks/real_extraction_check.json": "a8e0953289246f433b06014e76eee33b5953c6c233535fcde5294485ecf69301",
+    "CONFIG_FIX_README.md": "09e86c13dea232abcc377d9f31d17ca222e84999f009f5d01d4d0fa4dec949ea",
+    "EXPERIMENT_PROTOCOL.md": "41db82aae858862e7007047455e9f9e7759537c6cfd305a9cdfe141d1b0726fe",
+    "panns_frozen.py": "150e9a08d72c0192ebad47240f62ec3c341e662cfb17a150e1562d468048ee97",
+    "paper_common.py": "e58f69ae869d546a368b624043d3f7f42b927521d038f834f1369efecac90ccc",
+    "paper_data.py": "e18243ae74dace229b68ac28b7d617f8a6194a8f3f92b3bbfc1e95f4435de562",
+    "paper_summarize.py": "f31bcf770fe7f18b8acfd985eda31c829dfdc46902935310921ee4ced739c88a",
+    "paper_train.py": "accf07a3b7787c591c501845de79e0b06672a3b026dc9c97733c4fca84c91417",
+    "provenance/bert_reference.json": "4ea47f74557df6c13ff7f7b472a76ff6fd86dba9290e74ceeac0a87d83259354",
+    "provenance/method-new.tex": "001f36c2085f94f62de54e08e9ee7234f37b67e3857d33b5184e485cd9b635b7",
+    "remote_paper_audio.sh": "5faed6a0a7d64165b05e8f3c1735fee6be3c9ee008600291a02d7cd9d73abf90",
+    "REMOTE_README.md": "e8c8ca9a747c0ecb3b729cce1aa5ab202cc8b8eddd9b3a8f50196fd1822cca28"
+  },
+  "paper_model_source": "audit_av_core_20261012/model_legacy.py",
+  "test_evaluated": false
+}

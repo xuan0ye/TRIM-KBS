@@ -1,0 +1,58 @@
+{
+  "release": "cross-model-diagnostics-20261102",
+  "primary_datasets": [
+    "MOSI",
+    "SIMS"
+  ],
+  "primary_methods": [
+    "TRIM",
+    "MulT",
+    "LNLN"
+  ],
+  "training_seeds": [
+    13,
+    21,
+    42,
+    57,
+    88
+  ],
+  "permutations": 20,
+  "temporal_repetitions": 5,
+  "donor_seed": 20261102,
+  "primary_interventions": [
+    "audio_cross_video",
+    "vision_cross_video",
+    "paired_av_cross_video"
+  ],
+  "secondary_interventions": [
+    "audio_order",
+    "vision_order",
+    "av_order",
+    "zero_audio_present",
+    "zero_vision_present",
+    "zero_av_present"
+  ],
+  "selection": "none: archived validation-selected checkpoints only; no optimization, threshold tuning or outcome-driven checkpoint switching",
+  "native_output": {
+    "TRIM": "two-class probability",
+    "MulT": "two-class probability",
+    "LNLN": "regression score, decision >0; never labeled as a probability"
+  },
+  "primary_reporting": [
+    "decision_disagreement",
+    "corrected_and_broken",
+    "macro_f1_difference",
+    "native_score_shift"
+  ],
+  "temporal_note": "Permutation of nonzero-row proxy positions preserves zero-row locations; TRIM is prepooled and marked structurally order-invariant.",
+  "reused_test_predictions": true,
+  "new_training": false,
+  "confirmatory_new_test": false,
+  "bootstrap": {
+    "resamples": 2000,
+    "unit": "source video",
+    "paired_across": "conditions, fixed checkpoints and intervention draws",
+    "scope": "primary cross-video families and text-only removal",
+    "interpretation": "conditional on the five archived training seeds and fixed random draws; not independent confirmation"
+  }
+}

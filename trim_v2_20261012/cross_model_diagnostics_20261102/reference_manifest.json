@@ -1,0 +1,317 @@
+[
+  {
+    "dataset": "MOSI",
+    "method": "MulT",
+    "seed": 13,
+    "path": "reference/MOSI/MulT/seed_13.npz",
+    "sha256": "dcba8558cb5558c469ad12d6e8d4c2c8adcee87c14f5f9e4057c07c2933ce5cf"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "MulT",
+    "seed": 21,
+    "path": "reference/MOSI/MulT/seed_21.npz",
+    "sha256": "ec723d209a853e6511159c66a6e23c70ee864bc442c66ef49b8d40d86d9d0015"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "MulT",
+    "seed": 42,
+    "path": "reference/MOSI/MulT/seed_42.npz",
+    "sha256": "6f306cc841361cf88d441e37306053ef4d1dcc7c2f3ed59794cfa2ca482fd53c"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "MulT",
+    "seed": 57,
+    "path": "reference/MOSI/MulT/seed_57.npz",
+    "sha256": "a3a8160d4fa6a23ed16f679549e69b14318a0ff1effa5ad2995c01b359d10d8a"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "MulT",
+    "seed": 88,
+    "path": "reference/MOSI/MulT/seed_88.npz",
+    "sha256": "7808403ac10d7a81560454c7670a403003cabd4f8ed668424f07886263f088eb"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "LNLN",
+    "seed": 13,
+    "path": "reference/MOSI/LNLN/seed_13.npz",
+    "sha256": "649b5d5db5a36255110326de74f0c2cf176d45cc7350e4df66a19908cbedb48d"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "LNLN",
+    "seed": 21,
+    "path": "reference/MOSI/LNLN/seed_21.npz",
+    "sha256": "dff387553cab6c3f0464003f6648bf5ef89a6c648f0f1d36fe4ac7f684fe6ea9"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "LNLN",
+    "seed": 42,
+    "path": "reference/MOSI/LNLN/seed_42.npz",
+    "sha256": "d51d54858f4de6e42eb75ae2ab9050e27bbafb1ba24a0dbf607726c0719ad79f"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "LNLN",
+    "seed": 57,
+    "path": "reference/MOSI/LNLN/seed_57.npz",
+    "sha256": "f5330fbad9055dd5121656b46335b8d7b69309fe593fc3bb3168a40c7ddb954e"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "LNLN",
+    "seed": 88,
+    "path": "reference/MOSI/LNLN/seed_88.npz",
+    "sha256": "8d5180fede95f5cfd3f761e80b5c8e1b4bf7df8891872456cf574a69d256a4b7"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "TRIM",
+    "seed": 13,
+    "path": "reference/MOSI/TRIM/seed_13.npz",
+    "sha256": "68c59c9b25ba238f0bbf1c381f77e65acf017d5031bed87c967613e4965e3682"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "TRIM",
+    "seed": 21,
+    "path": "reference/MOSI/TRIM/seed_21.npz",
+    "sha256": "c38d33e1bcb1fb8d397494b1c45971f9a56fe0c47bfc00f63718143cad8bf8a8"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "TRIM",
+    "seed": 42,
+    "path": "reference/MOSI/TRIM/seed_42.npz",
+    "sha256": "3fb0aee3834e3731c06df43ddc717654c3b93aa0224c4ff9cb386b9c4678c644"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "TRIM",
+    "seed": 57,
+    "path": "reference/MOSI/TRIM/seed_57.npz",
+    "sha256": "86c41346fad79cb4d17f19dd027f3a40e02c39e9ee519edb99f68a3c8b9ff393"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "TRIM",
+    "seed": 88,
+    "path": "reference/MOSI/TRIM/seed_88.npz",
+    "sha256": "001f12b37fc45768226391c4a178d899987472c9e751234b9930689385d72d8a"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "MulT",
+    "seed": 13,
+    "path": "reference/SIMS/MulT/seed_13.npz",
+    "sha256": "208b2366e1d8a156c700c115678ca54bd3b42e1892418aabf75a4b8a77daa953"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "MulT",
+    "seed": 21,
+    "path": "reference/SIMS/MulT/seed_21.npz",
+    "sha256": "413e0ab6a1eb02ea98110525976ef3a800de18eb11d6e13f1f93f7d994f6619c"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "MulT",
+    "seed": 42,
+    "path": "reference/SIMS/MulT/seed_42.npz",
+    "sha256": "035efbdb18d186b44ae9e07f48adc5aec2e337c3c3cde096181772403f5d17ef"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "MulT",
+    "seed": 57,
+    "path": "reference/SIMS/MulT/seed_57.npz",
+    "sha256": "7e5e6c6c97621e5e57742792d487abfe01f9092afd88f36ea9f0d8858a18404f"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "MulT",
+    "seed": 88,
+    "path": "reference/SIMS/MulT/seed_88.npz",
+    "sha256": "7e0f71db7036d1dabb83c619f1eb22c197daa00d8c942287a958a8c51c87d08d"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "LNLN",
+    "seed": 13,
+    "path": "reference/SIMS/LNLN/seed_13.npz",
+    "sha256": "c5d5ce113f5fe5f0c9798d117d2a3fd80a1488d06889a3c8802faa9103af76ec"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "LNLN",
+    "seed": 21,
+    "path": "reference/SIMS/LNLN/seed_21.npz",
+    "sha256": "3aeb5845d5943e2463b1496f59e2e9475c4e0702112734fc28a320554e50b85a"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "LNLN",
+    "seed": 42,
+    "path": "reference/SIMS/LNLN/seed_42.npz",
+    "sha256": "208572135b01cf3e3221d98f18262178ac3829f1ed18a6f2e5177f64a3448538"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "LNLN",
+    "seed": 57,
+    "path": "reference/SIMS/LNLN/seed_57.npz",
+    "sha256": "b0bfd83e3ca7f1eb65b8aea6e8819d70194573c1d20fd335c334a2de21ad4ceb"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "LNLN",
+    "seed": 88,
+    "path": "reference/SIMS/LNLN/seed_88.npz",
+    "sha256": "2452a6fc35c1f4ec8595604200451a5ebad51c1d9d64d5d000b8ac5a71ada8d6"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "TRIM",
+    "seed": 13,
+    "path": "reference/SIMS/TRIM/seed_13.npz",
+    "sha256": "b9e85277fccbbbba277877813aa04129babd72616c6b94fe0460e4ee723470dd"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "TRIM",
+    "seed": 21,
+    "path": "reference/SIMS/TRIM/seed_21.npz",
+    "sha256": "83a9aa02adf30861649e8d01c48bcd0954018b812f75345fb5e415714a39d322"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "TRIM",
+    "seed": 42,
+    "path": "reference/SIMS/TRIM/seed_42.npz",
+    "sha256": "079b16b9dd5f48cc0ff01aa329910015268216d5a3e1c6fac2e6379f6d3f3bc7"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "TRIM",
+    "seed": 57,
+    "path": "reference/SIMS/TRIM/seed_57.npz",
+    "sha256": "86690426d23a24d97692636f66c4bd77d9bb75981806778ca8e069cce38a342d"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "TRIM",
+    "seed": 88,
+    "path": "reference/SIMS/TRIM/seed_88.npz",
+    "sha256": "5d517ffc89bd4e17b98bcf12b0651e116e788cbb7b8cfbd100c8a30083cade1a"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "MulT",
+    "seed": 13,
+    "path": "reference/MOSEI/MulT/seed_13.npz",
+    "sha256": "23e51f4a5d3ff9f505352e57e859ae557cb149acd8583f82e6002d66deeabc8c"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "MulT",
+    "seed": 21,
+    "path": "reference/MOSEI/MulT/seed_21.npz",
+    "sha256": "dd0e26068cd6c0b6bcff61ba407c0601a8be88d5704b6cdd494fd0cb5a7680db"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "MulT",
+    "seed": 42,
+    "path": "reference/MOSEI/MulT/seed_42.npz",
+    "sha256": "ce8269133dda38f04cea04565901ccde1fcaa993fbb900f5939bba35349a03ac"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "MulT",
+    "seed": 57,
+    "path": "reference/MOSEI/MulT/seed_57.npz",
+    "sha256": "6100ffc19e2d3e281c6ea1b9e17850bad86da735f4de9511fbc6530ee301d205"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "MulT",
+    "seed": 88,
+    "path": "reference/MOSEI/MulT/seed_88.npz",
+    "sha256": "676ccadce520adf366c19d9c01d19cf2a83cf94141a26bd4279b9e1e48ca6d6e"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "LNLN",
+    "seed": 13,
+    "path": "reference/MOSEI/LNLN/seed_13.npz",
+    "sha256": "6c4afdfcd8e4f745a25a98bff6dd9bcb42f604ebf17aea1ee888bf962793e556"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "LNLN",
+    "seed": 21,
+    "path": "reference/MOSEI/LNLN/seed_21.npz",
+    "sha256": "9e3ec370bf08f2a51567adf354975ce91f589438ab2b860b5d1e0adfc70a75f7"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "LNLN",
+    "seed": 42,
+    "path": "reference/MOSEI/LNLN/seed_42.npz",
+    "sha256": "77c474bf1e413f03c52261adda594d5759eec4ea5fb6ca9d6df6e2c1f1d0ecd6"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "LNLN",
+    "seed": 57,
+    "path": "reference/MOSEI/LNLN/seed_57.npz",
+    "sha256": "0744d3ccfa4ad01b4d8df02ff05bc1965071cb6529dcc6840e31d3ea881ccf6d"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "LNLN",
+    "seed": 88,
+    "path": "reference/MOSEI/LNLN/seed_88.npz",
+    "sha256": "1f85de3643d55131f4a4b2a231943b94ef4e022ca0c685d0d8d022fa1344ee9b"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "TRIM",
+    "seed": 13,
+    "path": "reference/MOSEI/TRIM/seed_13.npz",
+    "sha256": "ca892beed4d759f144fa697e09f6c39e3d32d83f68d881278e184eeb86fa8b64"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "TRIM",
+    "seed": 21,
+    "path": "reference/MOSEI/TRIM/seed_21.npz",
+    "sha256": "53f8d4882a286e591d4459555f1e7a3a38c7f7a290ef8ca00184936a97e7638e"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "TRIM",
+    "seed": 42,
+    "path": "reference/MOSEI/TRIM/seed_42.npz",
+    "sha256": "b3c27045b643a210cad3bdc1ec64bf5e5c4ff1ba8a72154a624895975b1da688"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "TRIM",
+    "seed": 57,
+    "path": "reference/MOSEI/TRIM/seed_57.npz",
+    "sha256": "0f5f111fea7c091c070bcd11a1d94185dc667b6079f2a3bc1f403aba093b30a4"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "TRIM",
+    "seed": 88,
+    "path": "reference/MOSEI/TRIM/seed_88.npz",
+    "sha256": "1f12331846df19765ddb38987fe8b50681902087b8172b3b1b048b519d3ff6c4"
+  }
+]

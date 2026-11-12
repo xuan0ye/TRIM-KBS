@@ -1,0 +1,19 @@
+{
+  "release": "supervised_full_PANNs_fusion_20261028",
+  "dependencies": {
+    "parent": "7682f23806b0e309184bd9b2faa5ce011d1f9f08aeca1b232ecccc9f4e35b7c6",
+    "causal": "dbd2bda89546e7b022414d61b8e5986d67de8d0e5fe8e6ff149555e5ee9d9875",
+    "information": "dd882e5e638041062e3b190b91687c67efe6efe5482eaa506524653964c3dc52"
+  },
+  "files": {
+    "fusion_core.py": "9c5f205a2fe85295a4c1765e2f362d1be9a3300e92ee20f36f4f4935f1e6e000",
+    "run_fusion.py": "c7daee88940cf0b9b6b8dcce069ef6008d4a01497195d58398ffabcbfcbc79e0",
+    "remote_panns_fusion.sh": "04f56f7b071262061831519ff2bb09dfcb37651dc2aff9f0c5ada349a8e37c0f",
+    "PROTOCOL.md": "08a6d4c5aa754e3efac63c056df782db03016bc0ef4e57459a374fa7de907616",
+    "REMOTE_README.md": "787ade5bb1a9cd0ab9703bb95efce5902cb90bac4e2eec0f87d8f836405fa780",
+    "build_bundle.py": "b79d8b05733b10058db55b29bee6e31f05305496c37a7ae369d705576194ae85",
+    "checks/check_fusion.py": "f7862fc23cc57fff165ea78f6e342a15d7e9dfb0b9bc8419f3082f19e2f61a74",
+    "checks/engineering_check.json": "4835afb83611007153f48f6269856db79785f27e77b0e0e951c4add29253e735"
+  },
+  "test_evaluated": false
+}

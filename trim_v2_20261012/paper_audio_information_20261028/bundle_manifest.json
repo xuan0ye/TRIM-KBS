@@ -1,0 +1,16 @@
+{
+  "release": "paper_audio_information_20261028",
+  "parent_manifest_sha256": "7682f23806b0e309184bd9b2faa5ce011d1f9f08aeca1b232ecccc9f4e35b7c6",
+  "files": {
+    "build_bundle.py": "348ac6027459b71eb96e096211e3a493d1175b0fd3ae6879aa628364856f4d7e",
+    "checks/check_information.py": "1c5692eeb74b837c9fe4cbe6a3e5ba0a85b11b775efd946ebe31c5fed236f355",
+    "checks/engineering_check.json": "cb0bc89fde908829be9099b75ead4bfd82406bb8897cb6b5c45b957eaf0217b7",
+    "checks/local_audio_structure.json": "8f3cb5c4044c80c296bb44633925df2c424b63122761fa89f9d681898f93e650",
+    "information_core.py": "687397c6fb47ddaf376b5960f8c55c335d2a4fb678cfdf4099dfe44805e45f21",
+    "PROTOCOL.md": "a6fece9a7edd16915f056bb5dd3cc869fbabff6f0ab72f565586bd62fd0dcc2d",
+    "remote_audio_information.sh": "a31bd641654717e5fbd2db90dd80bf2ec880c2765b675708c1f58132216f221a",
+    "REMOTE_README.md": "18443cf4274877c44d6b0f4b57e7b92804afc13024ee750a542312a5818095b4",
+    "run_information.py": "f6dfd9166fbf2711a2dee182fa1d6dfc8253b2e962ef27e3c250799265be0acb"
+  },
+  "test_evaluated": false
+}

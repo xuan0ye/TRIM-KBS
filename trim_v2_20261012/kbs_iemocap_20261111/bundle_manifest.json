@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "files": {
+    "models.py": "cae74eecb565bb2de7f70520b78865d440bd70e4ccf07789a119be25be0e0b4d",
+    "train.py": "ed0119f2df1d62ba17f165d104e8d97ddd2adb24963363284ff70a76c57a1271",
+    "build_bundle.py": "004c48adf4eca86233c24506e833dd45725914d72e0da26a259cbd96c8ab070e",
+    "protocol.json": "6d1851d32c56aa0e14c6ebe63b25003bc0c08865044976750644f1d86e77a672",
+    "common.py": "02550a088d29b4120a3ad707eef31b9774e93517d7ba635bb39906a277c4c9a6",
+    "data.py": "f049e1ed885f57104b0049731549c03ba0a430af8c478a312b0c02a6de94c5eb",
+    "interventions.py": "e1707a43045bef4de7cc87a3c69be46b33fa74dcae96bb185e2e908640ecbc00",
+    "evaluate.py": "a2ecac92ba7b638b1dbb282823ce3f9c000d77bcc998970e5c580d5c8817d856",
+    "summarize.py": "5b8e90383e821bd2fd37b2450efa03f35c720d4ba0449d767d6e41c71895b1e4",
+    "run.py": "bce8231ce63aec9852b9ec62299a969567c08ecaa486304befe7c37aecc6f46f",
+    "remote_iemocap.sh": "f49245b285ed1ef1badc3eccde6904ea2ebf89b9de1072486d8ac15435bacef6",
+    "PROTOCOL.md": "e1bb2c90a94f4a5a5bf91b1ec7bda743f50225aac6b1c58b4dae0412e30b089b",
+    "REMOTE_README.md": "7ae4180ad4ec99d1ec91beeb375e46089795c5f172ce344cd08b36c02d2296b5",
+    "check_engineering.py": "35e9e5d362b5551b0522446b715bcb3e8fab9c8543d9f6ae725d63227adcb779",
+    "check_integration.py": "6f55701d90183c85ce0eb4691d329e8c1342630ebf496da9fccc3db097cde1c8",
+    "vendor/model_legacy.py": "f4166b6ca8c36b278ae7a730380a3ded21ecd39a32adaf05763db6ed21888103",
+    "vendor/bert_weight_check.py": "0283749a4c3b445dbe560889601288416b1a04fc0af7bc2d8762225617527481",
+    "provenance/input_reference.json": "23fe734378c61b5d061ca7745154e0b64d61e85abcaba93f5f33c32bc7fa80ba",
+    "provenance/bert_architecture_reference.json": "ae8eca7329a07ce8e6bc59bf75564852fcf6978dd4d399ada1ba819673ed47f9",
+    "provenance/data_reference.json": "716d1ff08662d3274443992e44bf1f11772cf53f33fd0e1bdcf1b80b3674f97f",
+    "provenance/source.json": "e7ba05865a41f05ff7a1e873dea4dc96ebc77ab0859de86026c422d85b3a1bd5"
+  }
+}

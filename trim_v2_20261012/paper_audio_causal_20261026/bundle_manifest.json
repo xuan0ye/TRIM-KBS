@@ -1,0 +1,15 @@
+{
+  "release": "paper_audio_causal_20261026",
+  "parent_manifest_sha256": "7682f23806b0e309184bd9b2faa5ce011d1f9f08aeca1b232ecccc9f4e35b7c6",
+  "files": {
+    "build_bundle.py": "502ee775ad408660ca3e5c5a1552490adb3c9fa5d85c9e9a30a24e57809e912c",
+    "causal_common.py": "f070f91dcbad57e3fb8b71e13ac373c88edeb34621866e6c7b59038e4186614c",
+    "checks/check_causal.py": "45cdb5adf2f76c5383068a0bd22761fdd9ddcc39c7a7b811d9aa76a5f317894a",
+    "checks/engineering_check.json": "d6535d44902c79bffd791a120de92e25a1b140d857d9b887b819bc3a21524255",
+    "PROTOCOL.md": "8f5ac7d524281fdb0448b140e90b16d06558abea54f6f7228a9e6172fb68cd70",
+    "remote_audio_causal.sh": "05922e8533d9b6283ca16228c05f3b46dd906fc7286de951fc3046411e64b852",
+    "REMOTE_README.md": "314888332ebd37a53f8ac9b116bc74b372c666002e7303129f234e0165a3007d",
+    "run_causal.py": "597fed32709ca5f735397703abb38219959bf6ccdfe9b843691aa52f191ad878"
+  },
+  "test_evaluated": false
+}

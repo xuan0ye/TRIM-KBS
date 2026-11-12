@@ -1,0 +1,93 @@
+# Python / cache
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+bert_env/
+.venv/
+venv/
+env/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Datasets and feature caches
+MSA Datasets/
+MOSEI/
+MOSI/
+SIMS/
+data_*/
+feature_cache/
+MELD-Features-Models/
+bert_experiment_data/
+MELD*pkl*/
+
+# Training outputs and logs
+logs*/
+ablation_logs/
+results*/
+src/results*/
+*.log
+logs_*.txt
+nohup
+MISSING_PS=*
+*_report_*.txt
+*_report.txt
+*_report_detailed_*.txt
+paper_text.txt
+paper_figure_prompts.txt
+extracted_method_formulas.md
+
+# Model weights and large binaries
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.bin
+*.safetensors
+
+# Papers, generated figures, and private drafts
+*.docx
+*.pdf
+*.tex
+*.bib
+*.png
+*.cls
+paper_figures/
+figures/
+overleaf_generated/
+extracted_formula_previews*/
+IEEE overleaf*/
+sections/
+
+# External downloaded projects
+*-main/
+CREMA-D-master/
+CorMulT-main/
+DialoGPT-master/
+MAG-BERT-master/
+MISA-master/
+PanoSent-main/
+Self-MM-main/
+Auto-emotion-collection/
+bert-master/
+multi_modal_emotion/
+
+# Local helper scripts not part of the reproducible release
+check_labels.py
+prepare_bert_data.py
+run_bert_meld_experiment.py
+run_roberta_experiments.ps1
+run_server.sh
+remote_run_all_baselines_full.sh
+remote_run_required_experiments_11_13.sh
+remote_run_supplement_experiments_20260510.sh
+rerun_bad_and_generate.sh
+tests/

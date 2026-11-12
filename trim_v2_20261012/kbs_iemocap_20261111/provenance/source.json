@@ -1,0 +1,10 @@
+{
+  "base_package": "kbs_substantive_20261110",
+  "base_source_sha256": {
+    "models.py": "a7a563f902af673631b429ba5a153ff3063cc0a3f56e56112e472baa213b0dd7",
+    "train.py": "af7d39932562e4bcae7cc50770f9b5148481a4f1d8df8ff5fce5c531ac8444d6",
+    "vendor/model_legacy.py": "f4166b6ca8c36b278ae7a730380a3ded21ecd39a32adaf05763db6ed21888103",
+    "vendor/bert_weight_check.py": "0283749a4c3b445dbe560889601288416b1a04fc0af7bc2d8762225617527481"
+  },
+  "legacy_model_copied_verbatim": true
+}

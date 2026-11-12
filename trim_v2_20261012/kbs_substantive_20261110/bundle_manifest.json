@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "files": {
+    "protocol.json": "3be7cf4ee50a728f4d2f75db2970c1c39bc5459f3dec008f5090a56c917ccef5",
+    "common.py": "420605d01a1469db8f267541f64e5519830f8703b8ded176e5b7d644d8bf376c",
+    "data.py": "10966e3770261638c8a6dc5501f555fa97dd4063bebb52d751e9a34a460dad30",
+    "models.py": "a7a563f902af673631b429ba5a153ff3063cc0a3f56e56112e472baa213b0dd7",
+    "interventions.py": "37692c93945cfe53efeadcaffcd102b6dd04fe4c761bb5b6442aff063c8ff887",
+    "train.py": "af7d39932562e4bcae7cc50770f9b5148481a4f1d8df8ff5fce5c531ac8444d6",
+    "evaluate.py": "0a3a191cacbd5ed687decf1f114dfbce7d47c07faddff48b4cb54526107d0436",
+    "summarize.py": "4a4589f5d3d1a6e306284cc3bd92b0d53d3db79b4e7ae3e9b92adb9573dae075",
+    "run.py": "78a0f97eb82e4fa2908e9c46c42cbe2e64f2ebe860c8afe4f4a6b2bf3a985556",
+    "remote_kbs_supplement.sh": "4d17d72b2d861aef7d94434a46e2f38ccd60fe1db366ea1aabf42162d71ceed2",
+    "check_engineering.py": "7ca451db113e76f47830b1274fe679e348895573a4792b9640875aa2460ef5cb",
+    "PROTOCOL.md": "38d3c1cf6baab22c122a6f611fc5fc25eed0ec16c6c2c14e5034ef1c6cfbf273",
+    "REMOTE_README.md": "7601caba65d61a48f3ca10b86c6ef945da5c99f0d32f4ff2ee61065632d932e1",
+    "CHECKPOINT_IDENTITY_CORRECTION.md": "2c5d36266044f481454753831329b544430c90afe8928a52c5af70a1e771b75d",
+    "build_bundle.py": "de0b49f3022f1ca6a1b96d78159fe18bd207b011cdd8be37123243e24a815975",
+    "check_integration.py": "aa5fdb7fb33eefd5c25e00f300f50282499b1345eab231d4ba855cc48621629a",
+    "vendor/model_legacy.py": "f4166b6ca8c36b278ae7a730380a3ded21ecd39a32adaf05763db6ed21888103",
+    "vendor/mmap_dataset_pickle.py": "0f011408b9ac5c74a0c681b20752a61c90ca71a6690214caede288c0978127f2",
+    "vendor/bert_weight_check.py": "0283749a4c3b445dbe560889601288416b1a04fc0af7bc2d8762225617527481",
+    "vendor/bert_config_check.py": "1bb6bc67908089aed46ef0a093c30acb60f6514a95743a2876342bc9b624ba41",
+    "provenance/input_reference.json": "9b67a2a3b84d8020eed80711da4cf9c1605cb08fbd40f7a2bd65b2245528cf07",
+    "provenance/data_reference.json": "deac9f4835139e29f3c8d3933205350c1e5f7e43fbdff720d46df64b3540925a",
+    "provenance/source.json": "e9d75804dccc9abddd828af85a1d592ad009cadc376c32eebc04aadc62e5ca11",
+    "provenance/bert_architecture_reference.json": "f62ba74d29cc19bc0ccac1719fd290aef88d075b823573f0ca8149c788bc80b8"
+  }
+}

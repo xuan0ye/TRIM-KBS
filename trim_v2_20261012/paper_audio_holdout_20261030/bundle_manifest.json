@@ -1,0 +1,18 @@
+{
+  "release": "fresh_expert_video_holdout_20261030",
+  "parent_manifest_sha256": "7682f23806b0e309184bd9b2faa5ce011d1f9f08aeca1b232ecccc9f4e35b7c6",
+  "files": {
+    "holdout_split.py": "ab49f987979f6c2ceec952a04a45c306de693eaec40ec5db8c235645bb9dafaf",
+    "holdout_core.py": "de38a68289751cf986bcc1a280d87355ca3fbbedffeaf4280ef962b2da80cd87",
+    "holdout_router.py": "9035206b7521b16bfd56ac89cab1c0ca5ca85bb7dc48b6cfc1158382015f1c43",
+    "run_holdout.py": "dfc8376ea50a62e19ee0f548109af1d2c934ec5cf87ae3362d1473706a6a7536",
+    "split_plan.json": "e76f0cbcb3a39cd5ec28aed6e4e029a2b5c13b9c6477feafb8c08fe08ee5be27",
+    "remote_audio_holdout.sh": "4054d10e0e9a0ab46e25e9ebc39c2bb98377b6dd0ff1c12ed7b9b6db85076604",
+    "PROTOCOL.md": "a30d01972b05f58b3bbb6cd401a28636cb67875a3b6907c69895cfc1e7988c96",
+    "REMOTE_README.md": "3cb409cc95fde4e5322930ccfbe40348a0b43577921888d868cd1ddf0c3b8919",
+    "build_bundle.py": "7862b70d8ebd4e3c0b117a9f51e3a5e6c6b83ffbde5ff3b60836dc483b5e503a",
+    "checks/check_holdout.py": "844e772d683cd674e02d14dfdab4b6311f98a0ac2fad00a646bc3f92798ff153",
+    "checks/engineering_check.json": "85135ad3ed9cad2efcc910f31fbc155ffad72ae6540333ab165b68b0bc48b1de"
+  },
+  "test_evaluated": false
+}

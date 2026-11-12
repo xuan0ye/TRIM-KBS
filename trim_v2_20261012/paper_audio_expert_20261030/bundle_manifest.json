@@ -1,0 +1,17 @@
+{
+  "release": "audio_expert_mechanism_20261030",
+  "fusion_manifest_sha256": "77b9fd9e6e46cdcdbf7a3dcc4ca5471e9cd226e9e32f61a1f98f895258a70d43",
+  "files": {
+    "expert_core.py": "743078aa86ee01ff139467a9f81cf2bcc6b9849764fd191c8ef54d00ab6bf889",
+    "run_expert.py": "8372c1cee7b27bdc0ea2fde7c7650b2d683b2ceb19728ba8ab617919b21a3283",
+    "remote_audio_expert.sh": "72bdb999205b11a19c9c0393afbbbd84094d8510234ca2b31a2c12ab3b048377",
+    "PROTOCOL.md": "978cb911423b1a3ad163c1fd5c5b5274885ea8495b1b8dab8e47aef44fe32b05",
+    "REMOTE_README.md": "5aae7c862f91fe514c987ebb62c6167064e97ae2b135e6410e56f3a34462965f",
+    "build_bundle.py": "edd748f8ece73de1671c782b5273209ca00634f6c310886e86a0960ad921ccb3",
+    "checks/check_expert.py": "c3210d369c13df0d37be012df8106f9389c51c8bf8a25cccbf1d8f82ef978f2a",
+    "checks/check_diagnosis.py": "98e13994b12337fcaac4755fd5b6782cb6df2e44be1378f7f546e5b8a13e5da8",
+    "checks/engineering_check.json": "8782f38363e1ff7290748872a848b4c7669c20f35fc1d46e93b2bd32483d4dfb",
+    "checks/diagnosis_smoke.json": "8571ef51e55c494295b93030f1a1196d2d0105653e0e53b8377043f02ef4b28e"
+  },
+  "test_evaluated": false
+}

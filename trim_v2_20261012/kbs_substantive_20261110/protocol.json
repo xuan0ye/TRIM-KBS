@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "name": "KBS substantive supplement",
+  "datasets": [
+    "MOSI",
+    "SIMS",
+    "MOSEI"
+  ],
+  "variants": [
+    "trim",
+    "bert_mlp",
+    "concat",
+    "additive",
+    "budget_mlp"
+  ],
+  "seeds": [
+    101,
+    202,
+    303,
+    404,
+    505
+  ],
+  "split_seed": 20261110,
+  "inner_dev_video_fraction": 0.15,
+  "phases": {
+    "MOSI": [
+      5,
+      8,
+      7
+    ],
+    "SIMS": [
+      5,
+      8
+    ],
+    "MOSEI": [
+      5,
+      8,
+      7
+    ]
+  },
+  "selection": "global inner-dev full-input Macro-F1; tie earliest epoch",
+  "training_split": "official train: about 70% source fit, 15% source dev, 15% newly quarantined source audit",
+  "official_valid_role": "post-seal evaluation; previously examined benchmark",
+  "official_test_role": "post-seal evaluation; previously examined benchmark",
+  "batch_size": 16,
+  "accumulation_steps": 2,
+  "d_model": 256,
+  "train_modality_dropout": 0.15,
+  "label_smoothing": 0.05,
+  "weight_decay": 0.01,
+  "auxiliary": {
+    "nce": 0.02,
+    "ot": 0.02,
+    "masked_pairs": "retained as in legacy; same for all four multimodal variants",
+    "ama": "unused independent scalars omitted; no adaptive weighting claimed"
+  },
+  "learning_rates": {
+    "phase1_projector": 0.0003,
+    "later_projector": 5e-05,
+    "head": 0.0003,
+    "bert_phase2": 2e-05,
+    "bert_phase3": 1e-05
+  },
+  "interventions": {
+    "repeats": 20,
+    "primary": "paired cross-source bijection",
+    "secondary": [
+      "within-source derangement (eligible only)",
+      "length-bin matched cross-source bijection"
+    ],
+    "length_proxy": "count of nonzero acoustic rows; not validated duration or VAD"
+  },
+  "emap": {
+    "grouping": "T | (A,V)",
+    "score": "positive minus negative logit",
+    "exact_datasets": [
+      "MOSI",
+      "SIMS"
+    ],
+    "approximate_dataset": "MOSEI",
+    "anchors": 64,
+    "banks": 2,
+    "anchor_selection": "uniform without labels, shared across variants and seeds",
+    "not_measured": "A-V interactions internal to the grouped non-text input"
+  },
+  "sims_subsets": [
+    "all",
+    "text_aligned",
+    "text_opposed",
+    "text_neutral",
+    "nontext_support",
+    "source_unseen"
+  ],
+  "bootstrap": {
+    "repeats": 2000,
+    "unit": "source video",
+    "secondary": "crossed resampling of five training seeds and source videos"
+  },
+  "reporting": {
+    "primary": "mean and sample SD across five new training seeds",
+    "no_test_selection": true,
+    "not_fresh_external_data": true,
+    "external_dataset_status": "CH-SIMS v2 not installed; not counted as completed independent validation",
+    "intervals": "pointwise; no familywise significance claim; retain all planned comparisons"
+  },
+  "audit_video_fraction": 0.15,
+  "evaluation_roles": [
+    "audit",
+    "valid",
+    "test"
+  ],
+  "audit_role": "source-disjoint from all new-model fitting and selection; historical train data, not untouched external data"
+}

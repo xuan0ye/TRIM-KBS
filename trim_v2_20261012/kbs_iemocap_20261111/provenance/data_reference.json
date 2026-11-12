@@ -1,0 +1,7 @@
+{
+  "relative_path": "MELD和IEMOCAP的pkl数据集/iemocap_multimodal_features.pkl",
+  "sha256": "368c20fa87ea49fe9f068a5755085538e4d5d44ef4f1431794975c7ddbcbcbe2",
+  "vocab_sha256": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3",
+  "schema_reference": "https://github.com/yuntaoshou/DFGCN/blob/main/dataloader.py",
+  "feature_extractor_training_provenance": "Not independently established; do not claim untouched external validation."
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "dataset": "MOSI",
+    "method": "LNLN",
+    "seed": 13,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/MOSI/LNLN/seed_13/best_val_macro_f1_seed_13.pth",
+    "sha256": "40dcad89bcd14258cd9dbc7faebfec503512191b59d97bd302cf1e60b6809d84"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "LNLN",
+    "seed": 21,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/MOSI/LNLN/seed_21/best_val_macro_f1_seed_21.pth",
+    "sha256": "51f1c6247453288a6c59ac30f3a6e0c4a22e0f7c1448628273a5838868123126"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "LNLN",
+    "seed": 42,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/MOSI/LNLN/seed_42/best_val_macro_f1_seed_42.pth",
+    "sha256": "d4b14a184e4db5d52bacc219b4416937f65245e8b628517d9569c05ebdefdfc2"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "LNLN",
+    "seed": 57,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/MOSI/LNLN/seed_57/best_val_macro_f1_seed_57.pth",
+    "sha256": "b3717f83f30af7d2f15cdac3f8ae486ca2782c7e9d2fcbca0153b387f3258a3c"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "LNLN",
+    "seed": 88,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/MOSI/LNLN/seed_88/best_val_macro_f1_seed_88.pth",
+    "sha256": "e2ee58442062137d3fa348088d10e46dbfbb5a0670cd2b4e987e9842a868c7e7"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "LNLN",
+    "seed": 13,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/SIMS/LNLN/seed_13/best_val_macro_f1_seed_13.pth",
+    "sha256": "776c66a654230fd36f90b06f4216cf8c066aae96115a1e44aed5e2fbd87a11b1"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "LNLN",
+    "seed": 21,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/SIMS/LNLN/seed_21/best_val_macro_f1_seed_21.pth",
+    "sha256": "54aefda8020be4c3332750356abc753ff4b856a86a7d76ec7f5b8b2bf7c04e4e"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "LNLN",
+    "seed": 42,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/SIMS/LNLN/seed_42/best_val_macro_f1_seed_42.pth",
+    "sha256": "ec56f57e1b543248961350bc43c5409d7312bce389ea7eb38b3315cd642745a5"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "LNLN",
+    "seed": 57,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/SIMS/LNLN/seed_57/best_val_macro_f1_seed_57.pth",
+    "sha256": "40a3f7bbd8aa376636ab3e758058888adba9e7fb7b9a3649c610c791111fd81e"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "LNLN",
+    "seed": 88,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/SIMS/LNLN/seed_88/best_val_macro_f1_seed_88.pth",
+    "sha256": "a28da491b2c27da4369e7dd3272b08b973ec19b6241d650387671f78179be252"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "LNLN",
+    "seed": 13,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/MOSEI/LNLN/seed_13/best_val_macro_f1_seed_13.pth",
+    "sha256": "592b0a77237adbf32ab71e94600fcb9fb0877c06a6db62c56229c60efb915e85"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "LNLN",
+    "seed": 21,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/MOSEI/LNLN/seed_21/best_val_macro_f1_seed_21.pth",
+    "sha256": "d17b6d0d5a40a348dac333e0e534e007280a276fca78dd741dc483f72d39b4a1"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "LNLN",
+    "seed": 42,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/MOSEI/LNLN/seed_42/best_val_macro_f1_seed_42.pth",
+    "sha256": "74d1a0b8070422e9f0cb4285fa56e82d3d52e283d54b4a348b370975930fb0cd"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "LNLN",
+    "seed": 57,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/MOSEI/LNLN/seed_57/best_val_macro_f1_seed_57.pth",
+    "sha256": "27db6ed43212b02e0112ff0cecb586dc927fbb7a389bfc30ba498600ed8b2f14"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "LNLN",
+    "seed": 88,
+    "path": "sota_repro_20261001/audit_20260929/sota_native_runs/MOSEI/LNLN/seed_88/best_val_macro_f1_seed_88.pth",
+    "sha256": "14d1c938de28c0502180544769a7363087e33c8ccfaf4e06d4bbec4ada59e34c"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "MulT",
+    "seed": 13,
+    "path": "results_autodl/cormult/MOSI/MulT/seed_13/MOSI_cormult_repro_seed13.pt",
+    "sha256": "6c90d0b6e5159a0cc5a191b102da2af22acf5d26af7e1c34889abb50aaa4b9f9"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "MulT",
+    "seed": 21,
+    "path": "results_autodl/cormult/MOSI/MulT/seed_21/MOSI_cormult_repro_seed21.pt",
+    "sha256": "8e3dd2b47551f1627ba0476c1fb77c48e7f2e6f7071aba1ba8a248f941c135aa"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "MulT",
+    "seed": 42,
+    "path": "results_autodl/cormult/MOSI/MulT/seed_42/MOSI_cormult_repro_seed42.pt",
+    "sha256": "cee9c2244fb9e2e0eb729aaaf542f702ecb93be1606d06dd72fd44554ad98b72"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "MulT",
+    "seed": 57,
+    "path": "results_autodl/cormult/MOSI/MulT/seed_57/MOSI_cormult_repro_seed57.pt",
+    "sha256": "63b0b8d4cbaa79dc11cf2624cd13fc71dd32e7cf442d4bee1cfb623aeb8cb9d7"
+  },
+  {
+    "dataset": "MOSI",
+    "method": "MulT",
+    "seed": 88,
+    "path": "results_autodl/cormult/MOSI/MulT/seed_88/MOSI_cormult_repro_seed88.pt",
+    "sha256": "c240effcfef2fe387d8e107c62f9ca285402f504ce5793fa373f7afd535286d6"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "MulT",
+    "seed": 13,
+    "path": "results_autodl/cormult/SIMS/MulT/seed_13/SIMS_cormult_repro_seed13.pt",
+    "sha256": "9dd706047e7fbe9f4aac619cc19998522d30868f175dff8a65e0fc1128f221cf"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "MulT",
+    "seed": 21,
+    "path": "results_autodl/cormult/SIMS/MulT/seed_21/SIMS_cormult_repro_seed21.pt",
+    "sha256": "e5e909bc9b587e40b13e287f2e380ee89d72a04d62d668671d2910fa0e1f0c7d"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "MulT",
+    "seed": 42,
+    "path": "results_autodl/cormult/SIMS/MulT/seed_42/SIMS_cormult_repro_seed42.pt",
+    "sha256": "1dbd195f50d0986b9310a45a7275670499d8e3bb36961d012847f1bd6d8bc691"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "MulT",
+    "seed": 57,
+    "path": "results_autodl/cormult/SIMS/MulT/seed_57/SIMS_cormult_repro_seed57.pt",
+    "sha256": "0a7c0789e74ce099eaeebada5350c794c487c7fc79f009f699ada9536f2e3c1b"
+  },
+  {
+    "dataset": "SIMS",
+    "method": "MulT",
+    "seed": 88,
+    "path": "results_autodl/cormult/SIMS/MulT/seed_88/SIMS_cormult_repro_seed88.pt",
+    "sha256": "ce707c972f3ae55b02baaea036ff329a77c732295fafda85cd79853f3345b892"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "MulT",
+    "seed": 13,
+    "path": "results_autodl/cormult/MOSEI/MulT/seed_13/MOSEI_cormult_repro_seed13.pt",
+    "sha256": "b8ca68c8153a26e60285cc5ee59974eaa2de54dd14aa45649dba56f0efcca62e"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "MulT",
+    "seed": 21,
+    "path": "results_autodl/cormult/MOSEI/MulT/seed_21/MOSEI_cormult_repro_seed21.pt",
+    "sha256": "260e7795f8da9b666a83d47435f92b715281483492b009f1ff95a5baf17ad7cb"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "MulT",
+    "seed": 42,
+    "path": "results_autodl/cormult/MOSEI/MulT/seed_42/MOSEI_cormult_repro_seed42.pt",
+    "sha256": "24ab5f0c9ca7b09164a44705f6a0258efb85f6d0f1c526214a0a017415611457"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "MulT",
+    "seed": 57,
+    "path": "results_autodl/cormult/MOSEI/MulT/seed_57/MOSEI_cormult_repro_seed57.pt",
+    "sha256": "0ddfb75a2a88eeb3445ebaf22eeb4811d5b1790d714993a1e02fb92ec3498aee"
+  },
+  {
+    "dataset": "MOSEI",
+    "method": "MulT",
+    "seed": 88,
+    "path": "results_autodl/cormult/MOSEI/MulT/seed_88/MOSEI_cormult_repro_seed88.pt",
+    "sha256": "63efbb25464c19c409a09ba3c7cbc2e34b1be2d1611a300cfc756781e172c352"
+  }
+]

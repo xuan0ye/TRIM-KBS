@@ -1,0 +1,11 @@
+torch
+transformers
+torchaudio
+torchvision
+numpy
+tqdm
+Pillow
+einops
+pandas
+scikit-learn
+pynvml

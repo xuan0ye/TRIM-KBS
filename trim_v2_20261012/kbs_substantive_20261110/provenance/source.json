@@ -1,0 +1,22 @@
+[
+  {
+    "vendored": "vendor/model_legacy.py",
+    "original": "trim_v2_20261012\\paper_audio_repr_20261025\\_paper\\model_legacy.py",
+    "sha256": "f4166b6ca8c36b278ae7a730380a3ded21ecd39a32adaf05763db6ed21888103"
+  },
+  {
+    "vendored": "vendor/mmap_dataset_pickle.py",
+    "original": "trim_v2_20261012\\paper_audio_repr_20261025\\_paper\\mmap_dataset_pickle.py",
+    "sha256": "0f011408b9ac5c74a0c681b20752a61c90ca71a6690214caede288c0978127f2"
+  },
+  {
+    "vendored": "vendor/bert_weight_check.py",
+    "original": "trim_v2_20261012\\paper_audio_repr_20261025\\_paper\\bert_weight_check.py",
+    "sha256": "0283749a4c3b445dbe560889601288416b1a04fc0af7bc2d8762225617527481"
+  },
+  {
+    "vendored": "vendor/bert_config_check.py",
+    "original": "trim_v2_20261012\\paper_audio_repr_20261025\\bert_config_check.py",
+    "sha256": "1bb6bc67908089aed46ef0a093c30acb60f6514a95743a2876342bc9b624ba41"
+  }
+]
